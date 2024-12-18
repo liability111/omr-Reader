@@ -9,3 +9,9 @@ numpy
 imutils
 scipy
 pyzbar
+streamlit==1.6.0
+opencv-python==4.5.3.56
+numpy==1.21.2
+imutils==0.5.4
+scipy==1.7.1
+pyzbar==0.1.8

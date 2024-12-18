@@ -55,3 +55,15 @@ Integrate deep learning models for fault-tolerant OMR evaluation.
 Support for multi-type questions, including subjective answers.
 
 Deploy the application on cloud platforms for broader accessibility.
+
+
+
+
+# For Demo
+run the main.py file in any python interpretor
+install the dependencies and libraries 
+run the file : streamlit run main.py
+upload the omr sheet
+check the answer key
+wait for evaluation
+

@@ -3,3 +3,9 @@ streamlit>=1.0
 numpy>=1.21
 imutils>=0.5.4
 Pillow>=8.2.0
+streamlit
+opencv-python
+numpy
+imutils
+scipy
+pyzbar
